@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T07:46:56+00:00",
+  "generated_at": "2026-10-20T08:41:48+00:00",
   "successful_refreshes": 17,
   "quotes": {
     "^GSPC": {
@@ -7,8 +7,8 @@
       "price": 7690.73,
       "change_pct": -1.492,
       "currency": "USD",
-      "asof": "2026-10-19T20:00:00+00:00",
-      "fetched_at": "2026-10-20T07:46:56+00:00",
+      "asof": "2026-10-19T20:44:14+00:00",
+      "fetched_at": "2026-10-20T08:41:48+00:00",
       "source": "Yahoo Finance chart (best effort; may be delayed)"
     },
     "^NDX": {
@@ -17,43 +17,43 @@
       "change_pct": -3.702,
       "currency": "USD",
       "asof": "2026-10-19T21:15:59+00:00",
-      "fetched_at": "2026-10-20T07:46:56+00:00",
+      "fetched_at": "2026-10-20T08:41:48+00:00",
       "source": "Yahoo Finance chart (best effort; may be delayed)"
     },
     "^DJI": {
       "name": "Dow Jones",
-      "price": 51966.0,
+      "price": 51966.03,
       "change_pct": 0.223,
       "currency": "USD",
-      "asof": "2026-10-19T20:00:00+00:00",
-      "fetched_at": "2026-10-20T07:46:56+00:00",
+      "asof": "2026-10-19T20:44:25+00:00",
+      "fetched_at": "2026-10-20T08:41:48+00:00",
       "source": "Yahoo Finance chart (best effort; may be delayed)"
     },
     "^FTSE": {
       "name": "FTSE 100",
-      "price": 10724.65,
-      "change_pct": 0.698,
+      "price": 10713.81,
+      "change_pct": 0.596,
       "currency": "GBP",
-      "asof": "2026-10-20T07:31:56+00:00",
-      "fetched_at": "2026-10-20T07:46:56+00:00",
+      "asof": "2026-10-20T08:26:48+00:00",
+      "fetched_at": "2026-10-20T08:41:48+00:00",
       "source": "Yahoo Finance chart (best effort; may be delayed)"
     },
     "^HSI": {
       "name": "Hang Seng",
-      "price": 23901.73,
-      "change_pct": -1.522,
+      "price": 23867.74,
+      "change_pct": -1.662,
       "currency": "HKD",
-      "asof": "2026-10-20T07:31:56+00:00",
-      "fetched_at": "2026-10-20T07:46:56+00:00",
+      "asof": "2026-10-20T08:08:42+00:00",
+      "fetched_at": "2026-10-20T08:41:48+00:00",
       "source": "Yahoo Finance chart (best effort; may be delayed)"
     },
     "^STI": {
       "name": "STI",
-      "price": 5398.84,
-      "change_pct": -0.583,
+      "price": 5396.57,
+      "change_pct": -0.625,
       "currency": "SGD",
-      "asof": "2026-10-20T07:31:57+00:00",
-      "fetched_at": "2026-10-20T07:46:56+00:00",
+      "asof": "2026-10-20T08:26:48+00:00",
+      "fetched_at": "2026-10-20T08:41:48+00:00",
       "source": "Yahoo Finance chart (best effort; may be delayed)"
     },
     "^N225": {
@@ -62,16 +62,16 @@
       "change_pct": -5.416,
       "currency": "JPY",
       "asof": "2026-10-20T06:45:02+00:00",
-      "fetched_at": "2026-10-20T07:46:56+00:00",
+      "fetched_at": "2026-10-20T08:41:48+00:00",
       "source": "Yahoo Finance chart (best effort; may be delayed)"
     },
     "^GDAXI": {
       "name": "DAX",
-      "price": 25117.14,
-      "change_pct": -0.565,
+      "price": 25139.2,
+      "change_pct": -0.478,
       "currency": "EUR",
-      "asof": "2026-10-20T07:31:57+00:00",
-      "fetched_at": "2026-10-20T07:46:56+00:00",
+      "asof": "2026-10-20T08:26:49+00:00",
+      "fetched_at": "2026-10-20T08:41:48+00:00",
       "source": "Yahoo Finance chart (best effort; may be delayed)"
     },
     "NVDA": {
@@ -80,7 +80,7 @@
       "change_pct": -4.078,
       "currency": "USD",
       "asof": "2026-10-19T20:00:01+00:00",
-      "fetched_at": "2026-10-20T07:46:56+00:00",
+      "fetched_at": "2026-10-20T08:41:48+00:00",
       "source": "Yahoo Finance chart (best effort; may be delayed)"
     },
     "AAPL": {
@@ -89,7 +89,7 @@
       "change_pct": 0.578,
       "currency": "USD",
       "asof": "2026-10-19T20:00:01+00:00",
-      "fetched_at": "2026-10-20T07:46:56+00:00",
+      "fetched_at": "2026-10-20T08:41:48+00:00",
       "source": "Yahoo Finance chart (best effort; may be delayed)"
     },
     "MSFT": {
@@ -98,25 +98,25 @@
       "change_pct": -1.41,
       "currency": "USD",
       "asof": "2026-10-19T20:00:00+00:00",
-      "fetched_at": "2026-10-20T07:46:56+00:00",
+      "fetched_at": "2026-10-20T08:41:48+00:00",
       "source": "Yahoo Finance chart (best effort; may be delayed)"
     },
     "D05.SI": {
       "name": "DBS Group",
-      "price": 74.44,
-      "change_pct": -0.04,
+      "price": 74.38,
+      "change_pct": -0.121,
       "currency": "SGD",
-      "asof": "2026-10-20T07:36:56+00:00",
-      "fetched_at": "2026-10-20T07:46:56+00:00",
+      "asof": "2026-10-20T08:31:49+00:00",
+      "fetched_at": "2026-10-20T08:41:48+00:00",
       "source": "Yahoo Finance chart (best effort; may be delayed)"
     },
     "U11.SI": {
       "name": "UOB",
-      "price": 41.39,
-      "change_pct": 1.124,
+      "price": 41.34,
+      "change_pct": 1.002,
       "currency": "SGD",
-      "asof": "2026-10-20T07:36:55+00:00",
-      "fetched_at": "2026-10-20T07:46:56+00:00",
+      "asof": "2026-10-20T08:31:43+00:00",
+      "fetched_at": "2026-10-20T08:41:48+00:00",
       "source": "Yahoo Finance chart (best effort; may be delayed)"
     },
     "SPY": {
@@ -125,7 +125,7 @@
       "change_pct": -1.493,
       "currency": "USD",
       "asof": "2026-10-19T20:00:00+00:00",
-      "fetched_at": "2026-10-20T07:46:56+00:00",
+      "fetched_at": "2026-10-20T08:41:48+00:00",
       "source": "Yahoo Finance chart (best effort; may be delayed)"
     },
     "TLT": {
@@ -134,7 +134,7 @@
       "change_pct": 1.807,
       "currency": "USD",
       "asof": "2026-10-19T20:00:00+00:00",
-      "fetched_at": "2026-10-20T07:46:56+00:00",
+      "fetched_at": "2026-10-20T08:41:48+00:00",
       "source": "Yahoo Finance chart (best effort; may be delayed)"
     },
     "BND": {
@@ -143,7 +143,7 @@
       "change_pct": 0.498,
       "currency": "USD",
       "asof": "2026-10-19T20:00:01+00:00",
-      "fetched_at": "2026-10-20T07:46:56+00:00",
+      "fetched_at": "2026-10-20T08:41:48+00:00",
       "source": "Yahoo Finance chart (best effort; may be delayed)"
     },
     "VTI": {
@@ -152,7 +152,7 @@
       "change_pct": -1.58,
       "currency": "USD",
       "asof": "2026-10-19T20:00:00+00:00",
-      "fetched_at": "2026-10-20T07:46:56+00:00",
+      "fetched_at": "2026-10-20T08:41:48+00:00",
       "source": "Yahoo Finance chart (best effort; may be delayed)"
     }
   }
