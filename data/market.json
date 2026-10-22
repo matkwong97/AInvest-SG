@@ -1,41 +1,41 @@
 {
-  "generated_at": "2026-10-22T14:42:04+00:00",
+  "generated_at": "2026-10-22T15:41:23+00:00",
   "successful_refreshes": 17,
   "quotes": {
     "^GSPC": {
       "name": "S&P 500",
-      "price": 7652.54,
-      "change_pct": -1.182,
+      "price": 7656.97,
+      "change_pct": -1.125,
       "currency": "USD",
-      "asof": "2026-10-22T14:42:04+00:00",
-      "fetched_at": "2026-10-22T14:42:04+00:00",
+      "asof": "2026-10-22T15:41:15+00:00",
+      "fetched_at": "2026-10-22T15:41:23+00:00",
       "source": "Yahoo Finance chart (best effort; may be delayed)"
     },
     "^NDX": {
       "name": "Nasdaq 100",
-      "price": 29133.648,
-      "change_pct": -2.679,
+      "price": 29089.916,
+      "change_pct": -2.825,
       "currency": "USD",
-      "asof": "2026-10-22T14:42:03+00:00",
-      "fetched_at": "2026-10-22T14:42:04+00:00",
+      "asof": "2026-10-22T15:41:23+00:00",
+      "fetched_at": "2026-10-22T15:41:23+00:00",
       "source": "Yahoo Finance chart (best effort; may be delayed)"
     },
     "^DJI": {
       "name": "Dow Jones",
-      "price": 52541.62,
-      "change_pct": 0.697,
+      "price": 52717.73,
+      "change_pct": 1.035,
       "currency": "USD",
-      "asof": "2026-10-22T14:42:05+00:00",
-      "fetched_at": "2026-10-22T14:42:04+00:00",
+      "asof": "2026-10-22T15:41:24+00:00",
+      "fetched_at": "2026-10-22T15:41:23+00:00",
       "source": "Yahoo Finance chart (best effort; may be delayed)"
     },
     "^FTSE": {
       "name": "FTSE 100",
-      "price": 10742.93,
-      "change_pct": -0.899,
+      "price": 10727.27,
+      "change_pct": -1.044,
       "currency": "GBP",
-      "asof": "2026-10-22T14:27:04+00:00",
-      "fetched_at": "2026-10-22T14:42:04+00:00",
+      "asof": "2026-10-22T15:26:22+00:00",
+      "fetched_at": "2026-10-22T15:41:23+00:00",
       "source": "Yahoo Finance chart (best effort; may be delayed)"
     },
     "^HSI": {
@@ -44,7 +44,7 @@
       "change_pct": -5.674,
       "currency": "HKD",
       "asof": "2026-10-22T08:08:58+00:00",
-      "fetched_at": "2026-10-22T14:42:04+00:00",
+      "fetched_at": "2026-10-22T15:41:23+00:00",
       "source": "Yahoo Finance chart (best effort; may be delayed)"
     },
     "^STI": {
@@ -53,7 +53,7 @@
       "change_pct": 0.215,
       "currency": "SGD",
       "asof": "2026-10-22T09:20:00+00:00",
-      "fetched_at": "2026-10-22T14:42:04+00:00",
+      "fetched_at": "2026-10-22T15:41:23+00:00",
       "source": "Yahoo Finance chart (best effort; may be delayed)"
     },
     "^N225": {
@@ -62,43 +62,43 @@
       "change_pct": -3.699,
       "currency": "JPY",
       "asof": "2026-10-22T06:45:03+00:00",
-      "fetched_at": "2026-10-22T14:42:04+00:00",
+      "fetched_at": "2026-10-22T15:41:23+00:00",
       "source": "Yahoo Finance chart (best effort; may be delayed)"
     },
     "^GDAXI": {
       "name": "DAX",
-      "price": 25456.95,
-      "change_pct": 0.293,
+      "price": 25384.76,
+      "change_pct": 0.008,
       "currency": "EUR",
-      "asof": "2026-10-22T14:27:06+00:00",
-      "fetched_at": "2026-10-22T14:42:04+00:00",
+      "asof": "2026-10-22T15:26:25+00:00",
+      "fetched_at": "2026-10-22T15:41:23+00:00",
       "source": "Yahoo Finance chart (best effort; may be delayed)"
     },
     "NVDA": {
       "name": "NVIDIA",
-      "price": 214.39,
-      "change_pct": -1.307,
+      "price": 213.0,
+      "change_pct": -1.947,
       "currency": "USD",
-      "asof": "2026-10-22T14:42:06+00:00",
-      "fetched_at": "2026-10-22T14:42:04+00:00",
+      "asof": "2026-10-22T15:41:24+00:00",
+      "fetched_at": "2026-10-22T15:41:23+00:00",
       "source": "Yahoo Finance chart (best effort; may be delayed)"
     },
     "AAPL": {
       "name": "Apple",
-      "price": 342.46,
-      "change_pct": 0.135,
+      "price": 345.15,
+      "change_pct": 0.921,
       "currency": "USD",
-      "asof": "2026-10-22T14:42:07+00:00",
-      "fetched_at": "2026-10-22T14:42:04+00:00",
+      "asof": "2026-10-22T15:41:23+00:00",
+      "fetched_at": "2026-10-22T15:41:23+00:00",
       "source": "Yahoo Finance chart (best effort; may be delayed)"
     },
     "MSFT": {
       "name": "Microsoft",
-      "price": 523.03,
-      "change_pct": -3.042,
+      "price": 524.46,
+      "change_pct": -2.777,
       "currency": "USD",
-      "asof": "2026-10-22T14:42:06+00:00",
-      "fetched_at": "2026-10-22T14:42:04+00:00",
+      "asof": "2026-10-22T15:41:24+00:00",
+      "fetched_at": "2026-10-22T15:41:23+00:00",
       "source": "Yahoo Finance chart (best effort; may be delayed)"
     },
     "D05.SI": {
@@ -107,7 +107,7 @@
       "change_pct": 1.112,
       "currency": "SGD",
       "asof": "2026-10-22T09:13:43+00:00",
-      "fetched_at": "2026-10-22T14:42:04+00:00",
+      "fetched_at": "2026-10-22T15:41:23+00:00",
       "source": "Yahoo Finance chart (best effort; may be delayed)"
     },
     "U11.SI": {
@@ -116,43 +116,43 @@
       "change_pct": 0.456,
       "currency": "SGD",
       "asof": "2026-10-22T09:13:16+00:00",
-      "fetched_at": "2026-10-22T14:42:04+00:00",
+      "fetched_at": "2026-10-22T15:41:23+00:00",
       "source": "Yahoo Finance chart (best effort; may be delayed)"
     },
     "SPY": {
       "name": "S&P 500 ETF",
-      "price": 762.81,
-      "change_pct": -1.164,
+      "price": 763.12,
+      "change_pct": -1.123,
       "currency": "USD",
-      "asof": "2026-10-22T14:42:07+00:00",
-      "fetched_at": "2026-10-22T14:42:04+00:00",
+      "asof": "2026-10-22T15:41:26+00:00",
+      "fetched_at": "2026-10-22T15:41:23+00:00",
       "source": "Yahoo Finance chart (best effort; may be delayed)"
     },
     "TLT": {
       "name": "Long Treasury ETF",
-      "price": 81.26,
-      "change_pct": 1.613,
+      "price": 81.42,
+      "change_pct": 1.813,
       "currency": "USD",
-      "asof": "2026-10-22T14:42:04+00:00",
-      "fetched_at": "2026-10-22T14:42:04+00:00",
+      "asof": "2026-10-22T15:41:27+00:00",
+      "fetched_at": "2026-10-22T15:41:23+00:00",
       "source": "Yahoo Finance chart (best effort; may be delayed)"
     },
     "BND": {
       "name": "Total Bond ETF",
-      "price": 71.17,
-      "change_pct": 0.508,
+      "price": 71.225,
+      "change_pct": 0.586,
       "currency": "USD",
-      "asof": "2026-10-22T14:41:45+00:00",
-      "fetched_at": "2026-10-22T14:42:04+00:00",
+      "asof": "2026-10-22T15:41:26+00:00",
+      "fetched_at": "2026-10-22T15:41:23+00:00",
       "source": "Yahoo Finance chart (best effort; may be delayed)"
     },
     "VTI": {
       "name": "Total Stock ETF",
-      "price": 374.27,
-      "change_pct": -1.097,
+      "price": 374.395,
+      "change_pct": -1.064,
       "currency": "USD",
-      "asof": "2026-10-22T14:42:09+00:00",
-      "fetched_at": "2026-10-22T14:42:04+00:00",
+      "asof": "2026-10-22T15:41:23+00:00",
+      "fetched_at": "2026-10-22T15:41:23+00:00",
       "source": "Yahoo Finance chart (best effort; may be delayed)"
     }
   }
