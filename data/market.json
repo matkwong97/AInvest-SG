@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T02:51:27+00:00",
+  "generated_at": "2026-10-28T03:49:46+00:00",
   "successful_refreshes": 17,
   "quotes": {
     "^GSPC": {
@@ -8,7 +8,7 @@
       "change_pct": 0.13,
       "currency": "USD",
       "asof": "2026-10-27T20:48:15+00:00",
-      "fetched_at": "2026-10-28T02:51:27+00:00",
+      "fetched_at": "2026-10-28T03:49:46+00:00",
       "source": "Yahoo Finance chart (best effort; may be delayed)"
     },
     "^NDX": {
@@ -17,16 +17,16 @@
       "change_pct": 0.546,
       "currency": "USD",
       "asof": "2026-10-27T21:15:59+00:00",
-      "fetched_at": "2026-10-28T02:51:27+00:00",
+      "fetched_at": "2026-10-28T03:49:46+00:00",
       "source": "Yahoo Finance chart (best effort; may be delayed)"
     },
     "^DJI": {
       "name": "Dow Jones",
-      "price": 52377.57,
+      "price": 52377.6,
       "change_pct": -0.225,
       "currency": "USD",
-      "asof": "2026-10-27T20:48:23+00:00",
-      "fetched_at": "2026-10-28T02:51:27+00:00",
+      "asof": "2026-10-27T20:00:00+00:00",
+      "fetched_at": "2026-10-28T03:49:46+00:00",
       "source": "Yahoo Finance chart (best effort; may be delayed)"
     },
     "^FTSE": {
@@ -35,34 +35,34 @@
       "change_pct": -0.433,
       "currency": "GBP",
       "asof": "2026-10-27T16:35:30+00:00",
-      "fetched_at": "2026-10-28T02:51:27+00:00",
+      "fetched_at": "2026-10-28T03:49:46+00:00",
       "source": "Yahoo Finance chart (best effort; may be delayed)"
     },
     "^HSI": {
       "name": "Hang Seng",
-      "price": 23027.22,
-      "change_pct": -2.641,
+      "price": 23131.84,
+      "change_pct": -2.199,
       "currency": "HKD",
-      "asof": "2026-10-28T02:36:26+00:00",
-      "fetched_at": "2026-10-28T02:51:27+00:00",
+      "asof": "2026-10-28T03:34:48+00:00",
+      "fetched_at": "2026-10-28T03:49:46+00:00",
       "source": "Yahoo Finance chart (best effort; may be delayed)"
     },
     "^STI": {
       "name": "STI",
-      "price": 5396.37,
-      "change_pct": -0.765,
+      "price": 5408.59,
+      "change_pct": -0.541,
       "currency": "SGD",
-      "asof": "2026-10-28T02:36:27+00:00",
-      "fetched_at": "2026-10-28T02:51:27+00:00",
+      "asof": "2026-10-28T03:34:48+00:00",
+      "fetched_at": "2026-10-28T03:49:46+00:00",
       "source": "Yahoo Finance chart (best effort; may be delayed)"
     },
     "^N225": {
       "name": "Nikkei 225",
-      "price": 64067.1,
-      "change_pct": 1.843,
+      "price": 64308.71,
+      "change_pct": 2.227,
       "currency": "JPY",
-      "asof": "2026-10-28T02:35:03+00:00",
-      "fetched_at": "2026-10-28T02:51:27+00:00",
+      "asof": "2026-10-28T03:34:45+00:00",
+      "fetched_at": "2026-10-28T03:49:46+00:00",
       "source": "Yahoo Finance chart (best effort; may be delayed)"
     },
     "^GDAXI": {
@@ -71,7 +71,7 @@
       "change_pct": 1.132,
       "currency": "EUR",
       "asof": "2026-10-27T17:00:00+00:00",
-      "fetched_at": "2026-10-28T02:51:27+00:00",
+      "fetched_at": "2026-10-28T03:49:46+00:00",
       "source": "Yahoo Finance chart (best effort; may be delayed)"
     },
     "NVDA": {
@@ -80,7 +80,7 @@
       "change_pct": 0.679,
       "currency": "USD",
       "asof": "2026-10-27T20:00:01+00:00",
-      "fetched_at": "2026-10-28T02:51:27+00:00",
+      "fetched_at": "2026-10-28T03:49:46+00:00",
       "source": "Yahoo Finance chart (best effort; may be delayed)"
     },
     "AAPL": {
@@ -89,7 +89,7 @@
       "change_pct": 2.239,
       "currency": "USD",
       "asof": "2026-10-27T20:00:01+00:00",
-      "fetched_at": "2026-10-28T02:51:27+00:00",
+      "fetched_at": "2026-10-28T03:49:46+00:00",
       "source": "Yahoo Finance chart (best effort; may be delayed)"
     },
     "MSFT": {
@@ -98,25 +98,25 @@
       "change_pct": -0.102,
       "currency": "USD",
       "asof": "2026-10-27T20:00:01+00:00",
-      "fetched_at": "2026-10-28T02:51:27+00:00",
+      "fetched_at": "2026-10-28T03:49:46+00:00",
       "source": "Yahoo Finance chart (best effort; may be delayed)"
     },
     "D05.SI": {
       "name": "DBS Group",
-      "price": 74.12,
-      "change_pct": -0.71,
+      "price": 74.33,
+      "change_pct": -0.429,
       "currency": "SGD",
-      "asof": "2026-10-28T02:41:20+00:00",
-      "fetched_at": "2026-10-28T02:51:27+00:00",
+      "asof": "2026-10-28T03:39:35+00:00",
+      "fetched_at": "2026-10-28T03:49:46+00:00",
       "source": "Yahoo Finance chart (best effort; may be delayed)"
     },
     "U11.SI": {
       "name": "UOB",
-      "price": 41.65,
-      "change_pct": -0.833,
+      "price": 41.69,
+      "change_pct": -0.738,
       "currency": "SGD",
-      "asof": "2026-10-28T02:41:22+00:00",
-      "fetched_at": "2026-10-28T02:51:27+00:00",
+      "asof": "2026-10-28T03:39:45+00:00",
+      "fetched_at": "2026-10-28T03:49:46+00:00",
       "source": "Yahoo Finance chart (best effort; may be delayed)"
     },
     "SPY": {
@@ -125,7 +125,7 @@
       "change_pct": 0.079,
       "currency": "USD",
       "asof": "2026-10-27T20:00:00+00:00",
-      "fetched_at": "2026-10-28T02:51:27+00:00",
+      "fetched_at": "2026-10-28T03:49:46+00:00",
       "source": "Yahoo Finance chart (best effort; may be delayed)"
     },
     "TLT": {
@@ -134,7 +134,7 @@
       "change_pct": 1.872,
       "currency": "USD",
       "asof": "2026-10-27T20:00:00+00:00",
-      "fetched_at": "2026-10-28T02:51:27+00:00",
+      "fetched_at": "2026-10-28T03:49:46+00:00",
       "source": "Yahoo Finance chart (best effort; may be delayed)"
     },
     "BND": {
@@ -143,7 +143,7 @@
       "change_pct": 0.792,
       "currency": "USD",
       "asof": "2026-10-27T20:00:01+00:00",
-      "fetched_at": "2026-10-28T02:51:27+00:00",
+      "fetched_at": "2026-10-28T03:49:46+00:00",
       "source": "Yahoo Finance chart (best effort; may be delayed)"
     },
     "VTI": {
@@ -152,7 +152,7 @@
       "change_pct": 0.22,
       "currency": "USD",
       "asof": "2026-10-27T20:00:00+00:00",
-      "fetched_at": "2026-10-28T02:51:27+00:00",
+      "fetched_at": "2026-10-28T03:49:46+00:00",
       "source": "Yahoo Finance chart (best effort; may be delayed)"
     }
   }
